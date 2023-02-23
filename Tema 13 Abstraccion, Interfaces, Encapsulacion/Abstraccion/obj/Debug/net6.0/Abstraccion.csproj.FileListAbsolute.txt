@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\bin\Debug\net6.0\Abstraccion.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\bin\Debug\net6.0\Abstraccion.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\bin\Debug\net6.0\Abstraccion.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\bin\Debug\net6.0\Abstraccion.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\bin\Debug\net6.0\Abstraccion.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\refint\Abstraccion.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\Abstraccion.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Abstraccion\obj\Debug\net6.0\ref\Abstraccion.dll

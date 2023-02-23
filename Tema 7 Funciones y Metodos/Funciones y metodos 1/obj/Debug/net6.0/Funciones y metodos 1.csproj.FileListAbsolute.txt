@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\bin\Debug\net6.0\Funciones y metodos 1.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\bin\Debug\net6.0\Funciones y metodos 1.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\bin\Debug\net6.0\Funciones y metodos 1.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\bin\Debug\net6.0\Funciones y metodos 1.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\bin\Debug\net6.0\Funciones y metodos 1.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\refint\Funciones y metodos 1.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\Funciones y metodos 1.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 7 Funciones y Metodos\Funciones y metodos 1\obj\Debug\net6.0\ref\Funciones y metodos 1.dll

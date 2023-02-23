@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\bin\Debug\net6.0\ClasesyObjetos3-Herencia.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\bin\Debug\net6.0\ClasesyObjetos3-Herencia.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\bin\Debug\net6.0\ClasesyObjetos3-Herencia.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\bin\Debug\net6.0\ClasesyObjetos3-Herencia.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\bin\Debug\net6.0\ClasesyObjetos3-Herencia.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\refint\ClasesyObjetos3-Herencia.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ClasesyObjetos3-Herencia.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 11 Clases y Objetos 3\ClasesyObjetos3-Herencia\obj\Debug\net6.0\ref\ClasesyObjetos3-Herencia.dll

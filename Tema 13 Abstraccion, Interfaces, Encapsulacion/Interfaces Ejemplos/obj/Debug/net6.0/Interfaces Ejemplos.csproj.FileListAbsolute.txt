@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\bin\Debug\net6.0\Interfaces Ejemplos.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\bin\Debug\net6.0\Interfaces Ejemplos.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\bin\Debug\net6.0\Interfaces Ejemplos.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\bin\Debug\net6.0\Interfaces Ejemplos.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\bin\Debug\net6.0\Interfaces Ejemplos.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\refint\Interfaces Ejemplos.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\Interfaces Ejemplos.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 13 Abstraccion, Interfaces, Encapsulacion\Interfaces Ejemplos\obj\Debug\net6.0\ref\Interfaces Ejemplos.dll

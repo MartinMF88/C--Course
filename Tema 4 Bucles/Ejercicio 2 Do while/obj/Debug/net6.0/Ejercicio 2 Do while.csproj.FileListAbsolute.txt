@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\bin\Debug\net6.0\Ejercicio 2 Do while.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\bin\Debug\net6.0\Ejercicio 2 Do while.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\bin\Debug\net6.0\Ejercicio 2 Do while.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\bin\Debug\net6.0\Ejercicio 2 Do while.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\bin\Debug\net6.0\Ejercicio 2 Do while.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\refint\Ejercicio 2 Do while.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\Ejercicio 2 Do while.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejercicio 2 Do while\obj\Debug\net6.0\ref\Ejercicio 2 Do while.dll

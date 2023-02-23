@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\bin\Debug\net6.0\Sort y Complejidad.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\bin\Debug\net6.0\Sort y Complejidad.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\bin\Debug\net6.0\Sort y Complejidad.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\bin\Debug\net6.0\Sort y Complejidad.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\bin\Debug\net6.0\Sort y Complejidad.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\refint\Sort y Complejidad.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\Sort y Complejidad.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 21 Sort y Complejidad\Sort y Complejidad\obj\Debug\net6.0\ref\Sort y Complejidad.dll

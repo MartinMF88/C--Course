@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\bin\Debug\net6.0\Multithreading2.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\bin\Debug\net6.0\Multithreading2.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\bin\Debug\net6.0\Multithreading2.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\bin\Debug\net6.0\Multithreading2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\bin\Debug\net6.0\Multithreading2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\refint\Multithreading2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\Multithreading2.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 15 Multithreading\Multithreading2\obj\Debug\net6.0\ref\Multithreading2.dll

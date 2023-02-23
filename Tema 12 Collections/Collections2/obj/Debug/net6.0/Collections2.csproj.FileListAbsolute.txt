@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\bin\Debug\net6.0\Collections2.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\bin\Debug\net6.0\Collections2.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\bin\Debug\net6.0\Collections2.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\bin\Debug\net6.0\Collections2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\bin\Debug\net6.0\Collections2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\refint\Collections2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\Collections2.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 12 Collections\Collections2\obj\Debug\net6.0\ref\Collections2.dll

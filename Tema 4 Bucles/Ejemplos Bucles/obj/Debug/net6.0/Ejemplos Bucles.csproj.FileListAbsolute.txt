@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\bin\Debug\net6.0\Ejemplos Bucles.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\bin\Debug\net6.0\Ejemplos Bucles.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\bin\Debug\net6.0\Ejemplos Bucles.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\bin\Debug\net6.0\Ejemplos Bucles.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\bin\Debug\net6.0\Ejemplos Bucles.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\refint\Ejemplos Bucles.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\Ejemplos Bucles.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 4 Bucles\Ejemplos Bucles\obj\Debug\net6.0\ref\Ejemplos Bucles.dll

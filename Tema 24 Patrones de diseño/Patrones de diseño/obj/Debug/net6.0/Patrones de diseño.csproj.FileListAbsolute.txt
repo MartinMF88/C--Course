@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\bin\Debug\net6.0\Patrones de diseño.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\refint\Patrones de diseño.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\Patrones de diseño.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 24 Patrones de diseño\Patrones de diseño\obj\Debug\net6.0\ref\Patrones de diseño.dll

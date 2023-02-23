@@ -1,0 +1,4 @@
+Este es el archivo que tiene que leer c#
+Hola
+desde
+miArchivo.txt

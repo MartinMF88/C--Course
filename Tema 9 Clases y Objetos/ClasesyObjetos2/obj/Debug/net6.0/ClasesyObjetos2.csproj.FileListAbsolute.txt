@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\bin\Debug\net6.0\ClasesyObjetos2.exe
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\bin\Debug\net6.0\ClasesyObjetos2.deps.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\bin\Debug\net6.0\ClasesyObjetos2.runtimeconfig.json
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\bin\Debug\net6.0\ClasesyObjetos2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\bin\Debug\net6.0\ClasesyObjetos2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\refint\ClasesyObjetos2.dll
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.pdb
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ClasesyObjetos2.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\BOOTCAMP\C#\Tema 9 Clases y Objetos\ClasesyObjetos2\obj\Debug\net6.0\ref\ClasesyObjetos2.dll
