@@ -8,23 +8,23 @@ namespace PrimeraAplicacion
         {
             /* int edad;
 
-             edad = 28;
+            edad = 28;
 
-             edad++;
+            edad++;
 
-             edad += 5;
+            edad += 5;
 
-             Console.WriteLine(edad);
+            Console.WriteLine(edad);
 
-             // casting o conversion explicita
+            // casting o conversion explicita
 
-             double tempratura = 29.8;
+            double tempratura = 29.8;
 
-             int temperaturaMadrid;
+            int temperaturaMadrid;
 
-             temperaturaMadrid = (int)tempratura;
+            temperaturaMadrid = (int)tempratura;
 
-             Console.WriteLine(temperaturaMadrid);
+            Console.WriteLine(temperaturaMadrid);
             */
 
             /*
